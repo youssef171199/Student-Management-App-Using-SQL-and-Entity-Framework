@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\.net\\iti\\WinFormsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9301449-E75A-4E7A-8E2C-DEA7AC1BD332}|Solution Items{F9301449-E75A-4E7A-8E2C-DEA7AC1BD332}|D:\\.net\\iti\\WinFormsApp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{F9301449-E75A-4E7A-8E2C-DEA7AC1BD332}|Solution Items{F9301449-E75A-4E7A-8E2C-DEA7AC1BD332}|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\iti\\WinFormsApp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59CDFD1D-F022-405C-8B6D-C0418D6635D2}|WinFormsApp\\WinFormsApp.csproj|d:\\.net\\iti\\winformsapp\\winformsapp\\winformsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -39,25 +39,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WinFormsApp",
+              "Title": "WinFormsApp.csproj",
               "DocumentMoniker": "D:\\.net\\iti\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
               "RelativeDocumentMoniker": "WinFormsApp\\WinFormsApp.csproj",
               "ToolTip": "D:\\.net\\iti\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
               "RelativeToolTip": "WinFormsApp\\WinFormsApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-22T19:01:12.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:01:12.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "readme.md",
-              "DocumentMoniker": "D:\\.net\\iti\\WinFormsApp\\readme.md",
-              "RelativeDocumentMoniker": "readme.md",
-              "ToolTip": "D:\\.net\\iti\\WinFormsApp\\readme.md",
-              "RelativeToolTip": "readme.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABsAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\.net\\iti\\WinFormsApp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\.net\\iti\\WinFormsApp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-22T18:54:41.407Z",
               "EditorCaption": ""
@@ -95,8 +94,7 @@
               "ToolTip": "D:\\.net\\iti\\WinFormsApp\\WinFormsApp\\Form1.cs [Design]",
               "RelativeToolTip": "WinFormsApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T21:46:30.307Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-15T21:46:30.307Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "WinFormsApp\\Form1.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAYwCoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T18:38:15.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T18:38:15.985Z"
             }
           ]
         }
