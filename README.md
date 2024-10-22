@@ -3,4 +3,4 @@
 ## search
 Here is an example image:
 
-![Example Image](WinFormsApp\WinFormsApp\images\2.png)
+<img src="WinFormsApp\images" alt="Girl in a jacket" width="500" height="600">
