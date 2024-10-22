@@ -3,4 +3,4 @@
 ## search
 Here is an example image:
 
-![Example Image](WinFormsApp\images\1.png)
+![Example Image](images\1.png)
